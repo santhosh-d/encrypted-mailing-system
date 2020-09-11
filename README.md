@@ -1,5 +1,7 @@
 **Encrypted Mailing Service:**
+
 A Web Based Application to send encrypted mail upto 50 counts to multiple users at a same time.
+
 **_Note:_**
 
     	———————————————————————————————————————————————————————————————————————
@@ -15,7 +17,9 @@ A Web Based Application to send encrypted mail upto 50 counts to multiple users 
 **Technologies Used:**
 
 _HTML_ - To build the web page (front end)
+
 _CSS_ - Styling the Web Pages
+
 _NodeJs_ - Backend
 
 **Steps to Run the Project:**
